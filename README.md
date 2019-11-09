@@ -13,37 +13,15 @@ Functional HTML static page, Ruby back end, Live deploy
 
 Software Requirements
  
-Rails v. 5.0.0 Ruby v. 2.6.3 PostgreSQL v. HTML5/CSS3
+* Rails v. 5.0.0 
+* Ruby v. 2.6.3 
+* PostgreSQL 
+* HTML5/CSS3
 
  
-Create Account in GitHub and Heroku
- 
-Link github sign up
-Link Heroku sign up
- 
-Configure Heroku
-Keys??
- 
-Test
-Instructions
- 
 Clone this Repository
-Link e.g. git clone git@github.com:clarkngo/curriculum.git
+https://github.com/Jadsia/For-Netlify/
  
-Navigate to Directory
- 
-Cd [name of project]
-Create, migrate and seed the database
-$ rails db:create
-$ rails db:migrate
-$ rake db:seed
- 
-Start local server
-$ rails server
- 
-Production Deployment
-$ git push heroku master
-$ heroku run rake db:migrate
  
 Support
 Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
