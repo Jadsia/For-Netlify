@@ -11,7 +11,7 @@ Functional HTML static page, Ruby back end, Live deploy
 
 ![Netlify screencapture](https://user-images.githubusercontent.com/48420271/68518635-ad30ae80-0241-11ea-80cf-d2506520841d.JPG)
 
-Software Requirements
+## Software Requirements
  
 * Rails v. 5.0.0 
 * Ruby v. 2.6.3 
@@ -19,14 +19,14 @@ Software Requirements
 * HTML5/CSS3
 
  
-Clone this Repository
+## Clone this Repository
 https://github.com/Jadsia/For-Netlify/
  
  
-Support
+## Support
 Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
 Link to “issues” on github
  
-Copyright
+## Copyright
 copyright:: (c) Copyright 2019 Megan Young. All Rights Reserved.
 
