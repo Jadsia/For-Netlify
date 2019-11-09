@@ -1,11 +1,11 @@
 # For-Netlify
 Live deploy: https://myoungedtech.netlify.com/
 
-##Project Purpose
+## Project Purpose
 
 Initial HTML portfolio page for Spring 2019 UC Berkeley Full Stack Bootcamp. Fun! 
 
-##Project Requirements
+## Project Requirements
 
 Functional HTML static page, Ruby back end, Live deploy
 
