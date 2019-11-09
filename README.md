@@ -10,10 +10,8 @@ Project Requirements
 Functional HTML static page
 Ruby back end
 Live deploy
- 
 
- 
-Screenshots or videos
+https://github.com/Jadsia/For-Netlify/issues/1#issue-520291134
  
 Features
  
@@ -21,14 +19,8 @@ Features
  
 Software Requirements
  
-List software versions
-Rails v.
-Ruby v.
-PostgreSQL v.
-VS code?
-JS v.
-HTML
-CSS
+Rails v. 5.0.0 Ruby v. 2.6.3 PostgreSQL v. HTML5/CSS3
+
  
 Create Account in GitHub and Heroku
  
